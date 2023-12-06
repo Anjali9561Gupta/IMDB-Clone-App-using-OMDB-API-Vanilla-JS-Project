@@ -2,7 +2,7 @@
 IMDB clone is used for browsing any Movies, WEB Series with live search functionallity. This project uses the OMDB API providing access to huge database of Movies and their details.
 
 
-This Website has 3 pages :
+This Website has pages :
 
 
 HomePage :- Displays all recent and popular movies with a few options to play around with.
