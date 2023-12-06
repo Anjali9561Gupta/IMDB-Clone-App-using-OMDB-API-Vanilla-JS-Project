@@ -9,7 +9,6 @@ HomePage :- Displays all recent and popular movies with a few options to play ar
 
 MoviePage:- Displays details of a specific(selected by the user) movie with a button to play the trailer of the movie there itself.
 
-FavouritePage :- User can add movies to their favourite list. Those movies will be displayed here.
 
 
 #Features
