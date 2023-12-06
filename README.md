@@ -1,0 +1,1 @@
+# IMDB-Clone-App-using-OMDB-API-Vanilla-JS-Project
